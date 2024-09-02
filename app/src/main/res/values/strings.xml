@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iBlogg</string>
+    <string name="title_activity_homescreen">homescreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
